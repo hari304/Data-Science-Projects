@@ -9,3 +9,9 @@ iris_dataset_scatterplot-svgThis is probably the most versatile, easy and resour
 ssAmong all industries, the insurance domain has one of the largest uses of analytics & data science methods. This dataset provides you a taste of working on data sets from insurance companies – what challenges are faced there, what strategies are used, which variables influence the outcome, etc. This is a classification problem. The data has 615 rows and 13 columns.
 
 ### Problem: Predict if a loan will get approved or not.
+
+# Bigmart Sales Data Set
+
+Retail is another industry which extensively uses analytics to optimize business processes. Tasks like product placement, inventory management, customized offers, product bundling, etc. are being smartly handled using data science techniques. As the name suggests, this data comprises of transaction records of a sales store. This is a regression problem. The data has 8523 rows of 12 variables.
+
+### Problem: Predict the sales of a store.
