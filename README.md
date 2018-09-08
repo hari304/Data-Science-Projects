@@ -15,3 +15,8 @@ ssAmong all industries, the insurance domain has one of the largest uses of anal
 Retail is another industry which extensively uses analytics to optimize business processes. Tasks like product placement, inventory management, customized offers, product bundling, etc. are being smartly handled using data science techniques. As the name suggests, this data comprises of transaction records of a sales store. This is a regression problem. The data has 8523 rows of 12 variables.
 
 ### Problem: Predict the sales of a store.
+
+## 4. Boston Housing
+
+This is another popular dataset used in pattern recognition literature. The data set comes from the real estate industry in Boston (US). This is a regression problem. The data has 506 rows and 14 columns. Thus, it’s a fairly small data set where you can attempt any technique without worrying about your laptop’s memory being overused. 
+### Problem: Predict the median value of owner occupied homes.
