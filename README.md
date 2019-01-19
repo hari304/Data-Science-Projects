@@ -20,3 +20,10 @@ Retail is another industry which extensively uses analytics to optimize business
 
 This is another popular dataset used in pattern recognition literature. The data set comes from the real estate industry in Boston (US). This is a regression problem. The data has 506 rows and 14 columns. Thus, it’s a fairly small data set where you can attempt any technique without worrying about your laptop’s memory being overused. 
 ### Problem: Predict the median value of owner occupied homes.
+
+### Human Activity Recognition
+Human activity recognition, or HAR, is a challenging time series classification task.
+<br><br>
+It involves predicting the movement of a person based on sensor data and traditionally involves deep domain expertise and methods from signal processing to correctly engineer features from the raw data in order to fit a machine learning model.
+<br><br>
+Recently, deep learning methods such as convolutional neural networks have shown capable and even achieve state-of-the-art results by automatically learning features from the raw sensor data. In this notebook we will build a Convolution neural network using the TensorFlow library.
